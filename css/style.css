@@ -5,10 +5,10 @@ html {
 
 .parallax {
   /* The image used */
-  background-image: url("https://cdn.shopify.com/s/files/1/0896/4390/products/the-truth_1024x1024@2x.jpg?v=1525896028");
+  background-image: url("https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1492179299/articles/2015/07/02/why-do-ufos-love-this-utah-ranch-so-much/150701-strolhlic-ufo-tease_avkv8u");
 
   /* Full height */
-  height: 58%;
+  height: 100%;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -19,10 +19,10 @@ html {
 
 .parallax2 {
   /* The image used */
-  background-image: url("https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1439,w_2560,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1492179299/articles/2015/07/02/why-do-ufos-love-this-utah-ranch-so-much/150701-strolhlic-ufo-tease_avkv8u");
+  background-image: url("https://resize.hswstatic.com/w_907/gif/jeremy-corbell.jpg");
 
-  /* Set a specific height */
-  min-height: 100%;
+  /* Full height */
+  height: 40%;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -33,10 +33,10 @@ html {
 
 .parallax3 {
   /* The image used */
-  background-image: url("https://www.petguide.com/wp-content/uploads/2018/05/sun-conure.jpg");
+  background-image: url("https://i.imgur.com/HSi8b9B.jpg");
 
-  /* Set a specific height */
-  min-height: 500px;
+  /* Full height */
+  height: 40%;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
