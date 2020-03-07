@@ -1,0 +1,47 @@
+Station,Units,Capacity_MWe,Country,Latitude,Longitude,Type,text
+ANO,2,1839,United States,35.31028,-93.23139,Nuclear Site,Nuclear Site : ANO
+Beaver Valley,2,1738,United States,40.62333,-80.43056,Nuclear Site,Nuclear Site : Beaver Valley
+Braidwood,2,2330,United States,41.24361,-88.22917,Nuclear Site,Nuclear Site : Braidwood
+Browns Ferry,3,3300,United States,34.70389,-87.11861,Nuclear Site,Nuclear Site : Browns Ferry
+Brunswick,2,1858,United States,33.95833,-78.01028,Nuclear Site,Nuclear Site : Brunswick
+Byron,2,2300,United States,42.07417,-89.28194,Nuclear Site,Nuclear Site : Byron
+Callaway,1,1190,United States,38.76167,-91.78,Nuclear Site,Nuclear Site : Callaway
+Calvert Cliffs,2,1735,United States,38.43194,-76.44222,Nuclear Site,Nuclear Site : Calvert Cliffs
+Catawba,2,2258,United States,35.05167,-81.07,Nuclear Site,Nuclear Site : Catawba
+Clinton,1,1043,United States,40.17222,-88.835,Nuclear Site,Nuclear Site : Clinton
+Columbia,1,1107,United States,46.47111,-119.33389,Nuclear Site,Nuclear Site : Columbia
+Comanche Peak,2,2367,United States,32.29833,-97.785,Nuclear Site,Nuclear Site : Comanche Peak
+Diablo Canyon,2,2240,United States,35.21083,-120.85611,Nuclear Site,Nuclear Site : Diablo Canyon
+Donald C. Cook,2,2069,United States,41.97528,-86.56583,Nuclear Site,Nuclear Site : Donald C. Cook
+Dresden,2,"1,734[note 7]",United States,41.38972,-88.26806,Nuclear Site,Nuclear Site : Dresden
+Edwin I. Hatch,2,1759,United States,31.93417,-82.34389,Nuclear Site,Nuclear Site : Edwin I. Hatch
+Fermi,1,"1,122[note 9]",United States,41.96278,-83.2575,Nuclear Site,Nuclear Site : Fermi
+Grand Gulf,1,1419,United States,32.00667,-91.04833,Nuclear Site,Nuclear Site : Grand Gulf
+Hope Creek,1,1191,United States,39.46778,-75.53806,Nuclear Site,Nuclear Site : Hope Creek
+Indian Point,2,"2,062[note 19]",United States,41.26972,-73.95222,Nuclear Site,Nuclear Site : Indian Point
+Joseph M. Farley,2,1711,United States,31.22306,-85.11167,Nuclear Site,Nuclear Site : Joseph M. Farley
+LaSalle,2,2238,United States,41.24556,-88.66917,Nuclear Site,Nuclear Site : LaSalle
+Limerick,2,2264,United States,40.22667,-75.58722,Nuclear Site,Nuclear Site : Limerick
+McGuire,2,2200,United States,35.4325,-80.94833,Nuclear Site,Nuclear Site : McGuire
+Millstone,2,"2,102[note 29]",United States,41.31194,-72.16861,Nuclear Site,Nuclear Site : Millstone
+Nine Mile Point,2,1764,United States,43.52083,-76.40694,Nuclear Site,Nuclear Site : Nine Mile Point
+North Anna,2,1875,United States,38.06056,-77.78944,Nuclear Site,Nuclear Site : North Anna
+Oconee,3,2538,United States,34.79389,-82.89806,Nuclear Site,Nuclear Site : Oconee
+Palo Verde,3,3942,United States,33.38917,-112.865,Nuclear Site,Nuclear Site : Palo Verde
+Peach Bottom,2,"2,234[note 34]",United States,39.75833,-76.26806,Nuclear Site,Nuclear Site : Peach Bottom
+Perry,1,1240,United States,41.80083,-81.14333,Nuclear Site,Nuclear Site : Perry
+Point Beach,2,1227,United States,44.28111,-87.53667,Nuclear Site,Nuclear Site : Point Beach
+Prairie Island,2,1114,United States,44.62167,-92.63306,Nuclear Site,Nuclear Site : Prairie Island
+Quad Cities,2,1774,United States,41.72639,-90.31,Nuclear Site,Nuclear Site : Quad Cities
+Saint Lucie,2,1678,United States,27.34861,-80.24639,Nuclear Site,Nuclear Site : Saint Lucie
+Salem,2,2332,United States,39.46278,-75.53556,Nuclear Site,Nuclear Site : Salem
+Seabrook,1,1247,United States,42.89889,-70.85083,Nuclear Site,Nuclear Site : Seabrook
+Sequoyah,2,2278,United States,35.22639,-85.09167,Nuclear Site,Nuclear Site : Sequoyah
+South Texas,2,2560,United States,28.79556,-96.04889,Nuclear Site,Nuclear Site : South Texas
+Surry,2,1638,United States,37.16556,-76.69778,Nuclear Site,Nuclear Site : Surry
+Susquehanna,2,2429,United States,41.08889,-76.14889,Nuclear Site,Nuclear Site : Susquehanna
+Turkey Point,2,1800,United States,25.43417,-80.33056,Nuclear Site,Nuclear Site : Turkey Point
+Vogtle,2,"2,302[note 44]",United States,33.14306,-81.76583,Nuclear Site,Nuclear Site : Vogtle
+Waterford,1,1168,United States,29.99528,-90.47111,Nuclear Site,Nuclear Site : Waterford
+Watts Bar,2,2288,United States,35.60278,-84.78944,Nuclear Site,Nuclear Site : Watts Bar
+Wolf Creek,1,1160,United States,38.23889,-95.68889,Nuclear Site,Nuclear Site : Wolf Creek
