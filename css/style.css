@@ -45,6 +45,20 @@ html {
   background-size: cover;
 }
 
+.parallax4 {
+  /* The image used */
+  background-image: url("https://cdn.images.express.co.uk/img/dynamic/151/590x/aliens-1210571.jpg");
+
+  /* Full height */
+  height: 50%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
 @media only screen and (max-device-width: 1366px) {
   .parallax {
