@@ -50,7 +50,7 @@ html {
   background-image: url("https://cdn.images.express.co.uk/img/dynamic/151/590x/aliens-1210571.jpg");
 
   /* Full height */
-  height: 50%;
+  height: 80%;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -64,6 +64,10 @@ html {
   .parallax {
     background-attachment: scroll;
   }
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 .caption {

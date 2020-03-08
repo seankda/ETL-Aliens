@@ -14,6 +14,10 @@
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="css/style.css">
 
+  <!-- Font Awesome-->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
+    integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+
 </head>
 
 <!--Body-->
@@ -45,7 +49,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="jupyter.html">Jupyter Notebook</a>
+            <a class="nav-link" href="Notebook Page.html" target="_blank">Jupyter Notebook</a>
           </li>
 
           <li class="nav-item">
@@ -97,8 +101,22 @@
       <center>
         <h1>Purpose</h1>
       </center><br>
-      <p>Insert purpose here</p><br>
-
+      <p>Is there a correlation between UAP sightings, nuclear bases
+        and military bases? Are these sightings just glances at our country's tech capabilities, or are they something
+        from <i>out of this world?</i> We want to believe.</p>
+        <center><img src="Resources/funpix/mapping.png"></center>
+      <h4> Skills we've applied from past lessons:</h4>
+      <i class="fas fa-check"></i> Pandas<br>
+      <i class="fas fa-check"></i> NumPy<br>
+      <i class="fas fa-check"></i> Matplotlib<br>
+      <i class="fas fa-check"></i> Plotly<br>
+      <i class="fas fa-check"></i> CitiPy<br>
+      <i class="fas fa-check"></i> API Calls<br>
+      <i class="fas fa-check"></i> SQLAlchemy<br>
+      <i class="fas fa-check"></i> PostgreSQL<br>
+      <i class="fas fa-check"></i> Webscraping w/ Splinter & Beautiful Soup & Pandas<br>
+      <i class="fas fa-check"></i> HTML & CSS<br>
+      <br>
     </div>
 
   </div>
@@ -110,50 +128,53 @@
     <div style="height:45%;background-color:white;font-size:30px;padding-left: 20px;">
       <br>
       <center>
-        <h1>Extract</h1>
+        <h1>Task 1: Extract</h1>
       </center><br>
       <ul>
         <li>
           <p>Extract UAP reports from the <a href="http://www.nuforc.org/webreports/ndxevent.html"
-              target="_blank">National UFO Reporting Center
-            </a> by using Beautiful Soup</p>
+              target="_blank">National UFO Reporting Center</a> by using Beautiful Soup.</p>
         </li>
         <li>
           <p>Scrape a list of <a href="https://en.wikipedia.org/wiki/List_of_nuclear_power_stations" target="_blank">
               nuclear power stations </a>from Wikipedia, this time by using Panda's pd.read_html function!</p>
         </li>
         <li>
-          <p></p>
-        </li>
-        <li>
-          <p></p>
+          <p>Export <a href="https://public.opendatasoft.com/explore/dataset/military-bases" target="_blank">military
+              bases</a> as a csv and import into our notebook using Panda's pd.read_excel function.</p>
         </li>
       </ul>
+      <br>
     </div>
   </div>
 
 
   <!-- 3rd Parallax -->
-  <div class="parallax3"></div>
+  <div class="parallax2"></div>
 
   <div class="container">
     <div style="height:45%;background-color:white;font-size:30px;padding-left: 20px;">
       <br>
       <center>
-        <h1>Transform</h1>
+        <h1>Task 2: Transform</h1>
       </center><br>
       <ul>
         <li>
-          <p>From the UAP dataset extracted with Beautiful Soup, remove duplicates if any, dropped unneeded columns,
-            filtered out any locations not in the US.</p>
+          <p>Set executable path and initialize Chrome Browser.</p>
+        </li>
+        <li>
+          <p>Using Beautiful Soup, scrape the table data, concatenate al ltable data into one dataframe and convert to a
+            csv.</p>
+        </li>
+        <li>
+          <p>Clean the csv files by removing duplicate entries, dropping unneeded columns, dropping any Nan records in
+            data and filter out non-US locations</p>
         </li>
         <li>
           <p>Pass the dataset's city and state over to Google's geocode API in order to retrieve Lat and Long
             coordinates</p>
         </li>
-        <li>
-          <p></p>
-        </li>
+        <br>
     </div>
   </div>
 
@@ -164,23 +185,23 @@
     <div style="height:45%;background-color:white;font-size:30px;padding-left: 20px;">
       <br>
       <center>
-        <h1>Load</h1>
+        <h1>Task 3: Load</h1>
       </center><br>
       <ul>
         <li>
-          <p>Used Postgres to create a db (aliens_db)</p>
+          <p>Using PostgreSQL, create an aliens_db database.</p>
         </li>
         <li>
           <p>Use Pandas to load converted csvs to dataframes into the db.
             (tables: aliens_sighting, us_nuclear_sites, military_bases)
           </p>
         </li>
-        <li>
-          <p></p>
+        <br>
       </ul>
     </div>
   </div>
 
+    <center><strong><h2><a href="#top">Beam me up, Scotty!</a></h2></strong></center>
 
   <!--Parallax End-->
 
